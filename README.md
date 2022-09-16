@@ -14,7 +14,7 @@ Steps:-
 
 6.php artisan migrate
 
-7. php artisan serve 
+7.php artisan serve 
 
 
 Login : http://127.0.0.1:8000/login
